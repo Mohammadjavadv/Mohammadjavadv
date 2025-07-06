@@ -17,10 +17,18 @@ You can click the Preview link to take a look at your changes.
 </div>
 <h2>My Skills: </h2>
 <img src="https://skillicons.dev/icons?i=c,cpp,arduino,html,css,js,git,github,vscode"/>
+ <h2>Contact me: </h2>
+ <a href="https://t.me/MJavadvat">
+  <img width="47px" src="https://github.com/user-attachments/assets/6dc13a2a-384b-41f1-82cf-3ab05771258c"/>
+ </a>
+<a href="https://www.instagram.com/mohammadjavadv1386?igsh=aDRud2dsaDBxcWV3" class="user-social" title="instagram">
+ <img width="47px" src="https://github.com/user-attachments/assets/7faf7dc0-c449-4259-be58-d9b9d725cf85"/>
+</a>
+ <a href="mailto: mohammadjavadv1386@gmail.com">
+  <img width="47px" src="https://github.com/user-attachments/assets/9912bf43-7b23-4d5d-8657-5edf3c794930"/>
+ </a>
+
+
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammadjavadv/Mohammadjavadv/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohammadjavadv/Mohammadjavadv/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohammadjavadv/Mohammadjavadv/output/pacman-contribution-graph.svg">
-</picture>
+
 
